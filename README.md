@@ -1,3 +1,9 @@
-# Portfolio
-I am a Software Engineer with extreme interest in Web and Mobile development. I am pursuing my Bachelor's Degree at Hofstra University. I like to code and make cool stuff for people in need. 
-You can see my website here: https://sumaiyashrabony.wordpress.com/
+## 🗺 Sumaiya's Portfolio
+
+Welcome to my data portfolio! Here, I document a summary of my projects in the data field.
+
+📚 Table of Contents
+  - PowerBI
+  - Tableau
+  - Risk Analysis
+  - Enterprise Ethical Issue Analysis
