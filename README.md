@@ -3,10 +3,18 @@
 Welcome to my data portfolio! Here, I document a summary of my projects in the data field.
 
 📚 Table of Contents
+
+  -Python
   - PowerBI
   - Tableau
   - Risk Analysis
   - Enterprise Ethical Issue Analysis
+
+## Python
+
+| Project Link  | Project Description | Dashboard Link
+| ------------- | ------------- | ------------- |
+| [Dynamic Knowledge Tracing for Personalized Learning Pathways Using Deep Learning](https://github.com/safrin96/DKT/tree/main) | This project explores the use of Deep Knowledge Tracing (DKT), a machine learning technique that leverages sequential data modeling, to predict a learner's mastery of various skills over time. By analyzing sequences of student interactions with educational content, the DKT model estimates the probability that a learner has mastered specific topics and dynamically adjusts the learning path based on real-time performance. | |
 
 ## PowerBI
 
